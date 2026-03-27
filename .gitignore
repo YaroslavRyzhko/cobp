@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# save files
+save.json
+
+# virtual env
+venv/
+.env
