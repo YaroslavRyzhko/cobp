@@ -3,7 +3,7 @@ from buttons import Button
 from render import Renderer
 from save_manager import SaveManager
 from business import Business, Market, Resource, Event, Product
-from products import PRODUCTS
+from hra.products import PRODUCTS
 
 class Game:
     WIDTH  = 1000
